@@ -1,0 +1,1 @@
+This is a simple HCL2 parser that can be used to combine Terraform files to investigate the contents.
